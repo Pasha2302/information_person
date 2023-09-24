@@ -16,11 +16,11 @@ DISCORD_WEBHOOK_FILE_NAME = "dwebhook.js"
 HTML_FILE_NAME = "index.html"
 app = Flask(__name__)
 
-twitter_url = 'https://spyboy.in/twitter'
-discord = 'https://spyboy.in/Discord'
-website = 'https://spyboy.in/'
-blog = 'https://spyboy.blog/'
-github = 'https://github.com/spyboy-productions/r4ven'
+twitter_url = 'https://#'
+discord = 'https://#'
+website = 'https://#'
+blog = 'https://#'
+github = 'https://#'
 
 VERSION = '1.1.3'
 
@@ -103,7 +103,7 @@ def print_banners():
     print(f'{R}{banner}{W}')
     print(f'{Y}{des}{W}\n')
     print(f'{G}[+] {C}Version      : {W}{VERSION}')
-    print(f'{G}[+] {C}Created By   : {W}Spyboy')
+    print(f'{G}[+] {C}Created By   : {W}Pasha2302')
     print(f'{G} ╰➤ {C}Twitter      : {W}{twitter_url}')
     print(f'{G} ╰➤ {C}Discord      : {W}{discord}')
     print(f'{G} ╰➤ {C}Website      : {W}{website}')
