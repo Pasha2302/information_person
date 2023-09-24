@@ -17,7 +17,7 @@
   
 </p>
 
-<img width="100%" align="centre" src="https://spyboyblog.files.wordpress.com/2022/05/cream-brown-aesthetic-new-product-skincare-canvas-banner-2.png" />
+<img width="100%" align="centre" src="#" />
 
 <h4 align="center"> Отслеживайте IP-адрес и местоположение по GPS смартфона или ПК пользователя и делайте снимки цели вместе с информацией об устройстве. </h4>
 
