@@ -1,14 +1,14 @@
 <p align="center">
     <a href="https://#">
-      <img src="https://img.shields.io/badge/-TWITTER-black?logo=twitter&style=for-the-badge">
+      <img src="https://#">
     </a>
     &nbsp;
     <a href="https://#">
-      <img src="https://img.shields.io/badge/-spyboy.in-black?logo=google&style=for-the-badge">
+      <img src="https://#">
     </a>
     &nbsp;
     <a href="https://#">
-      <img src="https://img.shields.io/badge/-spyboy.blog-black?logo=wordpress&style=for-the-badge">
+      <img src="https://#">
     </a>
     &nbsp;
     <a href="https://#">
