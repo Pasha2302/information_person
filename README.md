@@ -1,18 +1,18 @@
 <p align="center">
-    <a href="https://spyboy.in/twitter">
+    <a href="https://#">
       <img src="https://img.shields.io/badge/-TWITTER-black?logo=twitter&style=for-the-badge">
     </a>
     &nbsp;
-    <a href="https://spyboy.in/">
+    <a href="https://#">
       <img src="https://img.shields.io/badge/-spyboy.in-black?logo=google&style=for-the-badge">
     </a>
     &nbsp;
-    <a href="https://spyboy.blog/">
+    <a href="https://#">
       <img src="https://img.shields.io/badge/-spyboy.blog-black?logo=wordpress&style=for-the-badge">
     </a>
     &nbsp;
-    <a href="https://spyboy.in/Discord">
-      <img src="https://img.shields.io/badge/-Discord-black?logo=discord&style=for-the-badge">
+    <a href="https://#">
+      <img src="#">
     </a>
   
 </p>
@@ -104,10 +104,10 @@ Requirements:
 ---
 
 ```
-git clone https://github.com/spyboy-productions/r4ven.git
+git clone https://github.com/Pasha2302/information_person.git
 ```
 ```
-cd r4ven
+cd information_person
 ```
 ```
 pip3 install -r requirements.txt
@@ -118,7 +118,7 @@ pip3 install -r requirements.txt
 Пожалуйста, `измените` [this](https://github.com/spyboy-productions/r4ven/blob/6e5230d309a4a3acf0d7a67a8e3913ccc35f7124/index.html#L203C29-L203C50) строку с URL-адресом, который вы хотите использовать.
 
 ```
-python3 r4ven.py
+python3 main.py
 ```
 
 ```Введите URL-адрес веб-перехватчика Discord (настройте канал на сервере Discord с интеграцией веб-перехватчика).)```
